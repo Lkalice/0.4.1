@@ -1,0 +1,17 @@
+tr:first-child {
+  background-color: black;
+  color: white;
+  border: blue;
+}
+
+td, th {
+  padding: 10px;
+  text-align: start;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+  
+
